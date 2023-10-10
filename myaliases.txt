@@ -1,0 +1,3 @@
+myhelp help
+mycopy cp
+mycat cat
